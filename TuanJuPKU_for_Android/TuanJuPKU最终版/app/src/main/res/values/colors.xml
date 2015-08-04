@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_serial_bg">
+        <item>#24c6d5</item>
+        <item>#57dd86</item>
+        <item>#ad7dcf</item>
+        <item>#ff484d</item>
+        <item>#fcba59</item>
+        <item>#24c6d5</item>
+    </string-array>
+	<!-- The default background of the menu. -->
+    <color name="md__defaultBackground">#00000000</color>
+    <color name="md__transparent">#00000000</color>
+
+    <!-- add by shiyqw -->
+    <color name="bg_actionbar">#3f51b5</color>
+
+    <color name="pink_transparent">#aa700d39</color>
+    <color name="green_transparent">#aa375a1f</color>
+    <color name="blue_transparent">#aa293576</color>
+    <color name="red_transparent">#aa7f3907</color>
+    <color name="purple_transparent">#aa432677</color>
+
+    <color name="holo_red_light_transparent">#aaff4444</color>
+</resources>
